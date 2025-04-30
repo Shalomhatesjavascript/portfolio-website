@@ -5,7 +5,7 @@
 
 ### [Project Zero]ECOMMERCE WEB-SITE DEVELOPING STARTUP
 
-Working with a startup in order to develop an ecommerce based web-site developing startup
+Working with a startup in order to develop an ecommerce based web-site developing startup.
 
 ## 📱 Screenshots
 <div align="center">   
@@ -13,3 +13,5 @@ Working with a startup in order to develop an ecommerce based web-site developin
 <img src="images/screenshot2.png" width="49%">
   <img src="images/screenshot3.png" width="49%">
 </div>
+
+nothing to crazy developed, hoping to make progress this year and work on something monumental to help the startup work and grow. 😊
