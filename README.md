@@ -8,6 +8,8 @@
 Working with a startup in order to develop an ecommerce based web-site developing startup
 
 ## 📱 Screenshots
-<div align="center">
-  
+<div align="center">   
+<img src="images/screenshot1.png" width="49%">
+<img src="images/screenshot2.png" width="49%">
+  <img src="images/screenshot3.png" width="49%">
 </div>
